@@ -1,0 +1,25 @@
+bracex==2.1.1
+click==8.0.0
+future==0.18.2
+Jinja2==3.0.0
+joblib==1.0.1
+livereload==2.6.3
+lunr==0.5.8
+Markdown==3.3.4
+MarkupSafe==2.0.0
+mkdocs==1.1.2
+mkdocs-awesome-pages-plugin==2.5.0
+mkdocs-material==7.1.4
+mkdocs-material-extensions==1.0.1
+mkdocs-static-i18n==0.12
+nltk==3.6.2
+protobuf==3.15.4
+Pygments==2.9.0
+pymdown-extensions==8.2
+PyYAML==5.4.1
+regex==2021.4.4
+six==1.15.0
+tags-macros-plugin @ git+https://github.com/jldiaz/mkdocs-plugin-tags.git@d26e2f124e4f3471639d426459e281080988fe7a
+tornado==6.1
+tqdm==4.60.0
+wcmatch==8.1.2

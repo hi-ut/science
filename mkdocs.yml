@@ -1,0 +1,29 @@
+site_name: 史料からみる日本の歴史
+theme:
+  name: material # readthedocs
+  language: ja
+  feature:
+    tabs: true
+
+extra:
+  search:
+    language: jp
+
+extra_css:
+    - "https://fonts.googleapis.com/earlyaccess/notosansjp.css"
+    - "https://fonts.googleapis.com/css?family=Open+Sans:600,800"
+    - "css/custom.css"
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      use_pygments: true
+      noclasses: true
+
+google_analytics:
+  - 'UA-XXXXXXXX-X'
+  - 'auto'
+
+plugins:
+  - search
+  - awesome-pages

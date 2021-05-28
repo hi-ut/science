@@ -1,27 +1,27 @@
 nav:
     - index.md
     - ● 史料に基づいた日本史の研究: kaisetsu.md
-    - 001.md
-    - 002.md
-    - 003.md
-    - 004.md
-    - 005.md
-    - 006.md
-    - 007.md
-    - 008.md
-    - 009.md
-    - 010.md
-    - 011.md
-    - 012.md
-    - 13 <ruby>倭<rp>(</rp><rt>わ</rt><rp>)</rp></ruby><ruby>寇<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>図<rp>(</rp><rt>ず</rt><rp>)</rp></ruby><ruby>巻<rp>(</rp><rt>かん</rt><rp>)</rp></ruby> <span style="color:#FF0266;">[詳細画像あり]</span>: 013.md
-    - 014.md
-    - 015.md
-    - 016.md
-    - 17 たはらかさね<ruby>耕<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>作<rp>(</rp><rt>さく</rt><rp>)</rp></ruby><ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby><ruby>巻<rp>(</rp><rt>まき</rt><rp>)</rp></ruby> <span style="color:#FF0266;">[詳細画像あり]</span>: 017.md
-    - 018.md
-    - 019.md
-    - 020.md
-    - 021.md
+    - 1 拾芥抄: 001.md
+    - 2 尾張国郡司百姓等解: 002.md
+    - 3 源頼朝袖判下文: 003.md
+    - 4 吾妻鏡: 004.md
+    - 5 南無阿弥陀仏作善集: 005.md
+    - 6 蒙古合戦勲功配分状: 006.md
+    - 7 薩摩国日置北郷下地中分図: 007.md
+    - 8 伯耆国東郷荘下地中分絵図: 008.md
+    - 9 後醍醐天皇綸旨: 009.md
+    - 10 足利尊氏自筆書状: 010.md
+    - 11 海東諸国紀: 011.md
+    - 12 琉球国中山王尚寧起請文: 012.md
+    - 13 倭寇図巻 <span style="color:#FF0266;">[詳細画像あり]</span>: 013.md
+    - 14 豊臣秀吉掟書・刀狩令: 014.md
+    - 15 ロシア使節来航絵巻: 015.md
+    - 16 ペリー渡来絵図貼交屏風: 016.md
+    - 17 たはらかさね耕作絵巻 <span style="color:#FF0266;">[詳細画像あり]</span>: 017.md
+    - 18 老農夜話: 018.md
+    - 19 三条西実隆像紙形: 019.md
+    - 20 南島雑話: 020.md
+    - 21 南島雑話: 021.md
     - ● 史料編纂所の利用: toiawase.md
     - ● 史料研究の世界へ: sekai.md
     - ● 史料保存技術への招待: hozon.md
